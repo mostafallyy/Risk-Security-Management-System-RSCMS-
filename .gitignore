@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.exe
+*.ps1
+*.bat
+activate
